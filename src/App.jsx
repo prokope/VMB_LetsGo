@@ -11,7 +11,6 @@ export default function App() {
 
         <Route path="/" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard />} />
-
       </Routes>
 
     </BrowserRouter>
