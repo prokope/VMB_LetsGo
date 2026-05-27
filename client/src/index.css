@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Garet";
+  src: url("./assets/fonts/Garet-Book.woff") format("woff");
+}
+
+body {
+  font-family: "Garet", sans-serif;
+}
